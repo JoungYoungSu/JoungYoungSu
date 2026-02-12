@@ -54,7 +54,7 @@
 - 알고리즘 간 정량적(PSNR/SSIM), 시각적 비교 실험
 - 실제 적용 시 한계 및 개선 방향 정리
 
-▶️ **[Outdoor_Image_Enhancement](링크)**  
+▶️ **[Outdoor_Image_Enhancement](링크)**(https://github.com/JoungYoungSu/Outdoor_Image_Enhancement.git)  
 
 ---
 
@@ -127,14 +127,13 @@
 공백기 동안 Python / OpenCV / Deep Learning 기반으로
 Computer Vision 구현 역량을 확장한 실습 및 프로젝트 저장소입니다.
 
-▶️ **Computer_Vision_Practice**
+▶️ **Computer_Vision_Practice** [Repository Link](클릭)(https://github.com/JoungYoungSu/Computer_Vision_Practice.git)
 - Python 기반 데이터 분석 및 딥러닝 모델 실험
 - 영상처리 응용을 위한 딥러닝 구조 구현 및 실험
-[Repository Link](클릭)
 
-▶️ **OpenCV_Lecture_Practice**
+
+▶️ **OpenCV_Lecture_Practice** [Repository Link](클릭)(https://github.com/JoungYoungSu/OpenCV_Lecture_Practice.git)
 - OpenCV 기반 영상 처리 함수 및 알고리즘 직접 구현
-[Repository Link](클릭)
 
 ---
 
