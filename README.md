@@ -1,59 +1,64 @@
 # Computer Vision Portfolio
 ## Research-based Image Enhancement & Implementation Experience
 
-전통 영상처리 기반 화질 개선 알고리즘 설계 및 성능 검증 경험을 보유한 
-**Computer Vision 엔지니어** 포트폴리오입니다.
-
----
-
-## 🔍 Research Profile
-
-> **"기존 알고리즘의 한계를 분석하고, 수식적 근거를 바탕으로 개선된 영상 처리 알고리즘을 설계합니다."**
-
-- **Degree**: M.S. in Control and Instrumentation Engineering, Department of Electrical Engineering
-- **Specialty**: Image and Signal Processing
-- **Focus**:
-  - 전통 영상처리 기반 화질 개선
-  - 알고리즘 비교 및 성능 평가 (PSNR / SSIM 등)
-  - 잡음 제거, 저조도 개선, 화이트 밸런스, 안개 제거 등 다양한 품질 저하 영상 개선
-
----
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-**Research**
-- MATLAB (Algorithm design & experimentation)
-
-**Implementation & Self-Study**
-- Python (NumPy, OpenCV, TensorFlow, Keras, Scikit-learn, Pandas, Matplotlib)
-- C++ (OpenCV)
-
-### Computer Vision & Image Processing
-- Image Enhancement (Dehazing, Denoising, White Balance)
-- Filtering & Interpolation
-- Contrast & Visibility Improvement
-
-### Evaluation & Validation
-- PSNR, SSIM
-- Quantitative & Visual Performance Analysis
-
-### Research & Experimentation
-- Algorithm Analysis & Improvement
-- Comparative Experiments
-- Academic Writing & Publication
+전통 영상처리 기반 화질 개선 알고리즘 설계 및 성능 검증 경험을 보유하고 있으며,
+C++ / Python 기반 구현과 Deep Learning 실습을 통해 **Computer Vision 분야**의 역량을 지속적으로 확장하고 있습니다.
 
 ---
 
 ## 📌 Main Research Portfolio
 
-석사 학위 연구 보고서를 바탕으로, 복합 열화 제거 과정을 **단계별 프로젝트로 세분화하여 구조화**한 저장소입니다.
-단일 알고리즘 제안에 그치지 않고, 복합 열화(안개 + 색 왜곡 + 대비 저하 + 잡음)환경을 극복하기 위한 전체 파이프라인을 설계하고 각 단계별 알고리즘의 성능을 비교·분석한 프로젝트입니다.
+**"석사 학위 연구의 핵심 성과를 단계별 처리 파이프라인으로 구조화한 프로젝트"**
+
+단일 알고리즘 제안에 그치지 않고, 복합 열화(안개 + 색 왜곡 + 대비 저하 + 잡음) 환경을 극복하기 위한 전체 파이프라인을 설계하고 각 단계별 알고리즘의 성능을 비교·분석하였습니다.
 
 ▶️ **[Outdoor_Image_Enhancement](https://github.com/JoungYoungSu/Outdoor_Image_Enhancement.git)**
 - 단계별 처리 알고리즘 모듈 설계
-- 알고리즘 간 정량적(PSNR/SSIM), 시각적 비교 실험
-- 실제 적용 시 한계 및 개선 방향 정리
+- 알고리즘 간 정량적(PSNR/SSIM), 시각적 비교 실험 수행
+- 실제 현장에 적용 시 한계점 및 개선 방향 도출
+
+---
+
+## 🧪 Practice & Implementation
+
+공백기 동안 Python / OpenCV / Deep Learning 기반으로 Computer Vision 구현 역량을 확장한 실습 및 프로젝트 저장소입니다.
+이론 학습에 그치지 않고, 주요 모델과 알고리즘을 직접 구현하고 적용해보는 데 초점을 두었습니다.
+
+▶️ **[Computer_Vision_Practice](https://github.com/JoungYoungSu/Computer_Vision_Practice.git)**
+- Python 기반 데이터 분석 및 딥러닝 모델 실험
+- CNN / U-Net 기반 모델 구현 및 Transfer Learning 실습
+
+▶️ **[OpenCV_Lecture_Practice](https://github.com/JoungYoungSu/OpenCV_Lecture_Practice.git)**
+- OpenCV 기반 영상 처리 함수 및 알고리즘 직접 구현
+- C++ 환경에서 영상 처리 파이프라인을 구성해본 경험
+
+---
+
+## 🛠️ Tech Stack
+
+### Research
+- **MATLAB**: Algorithm design, Simulation, Mathematical modeling
+
+### Implementation & Self-Study
+- **Python**: NumPy, OpenCV, TensorFlow, Keras, Scikit-learn, Pandas, Matplotlib
+- **C++**: OpenCV
+
+### Core Competencies
+- **Image Enhancement**: Dehazing, Denoising, White Balance, Low-light Enhancement
+- **Processing**: Filtering, Interpolation, Contrast & Visibility Improvement
+- **Evaluation**: PSNR, SSIM, Quantitative & Visual Performance Analysis
+
+---
+
+## 🔍 Education & Research Profile
+
+> **"기존 알고리즘의 한계를 분석하고, 수식적 근거를 바탕으로 개선된 영상 처리 알고리즘을 설계합니다."**
+
+- **Degree**: M.S. in Control and Instrumentation Engineering, Department of Electrical Engineering(전기공학부 제어계측 공학과)
+- **Specialty**: Image and Signal Processing
+- **Focus**:
+  - 전통 영상처리 기반 화질 개선 알고리즘 설계
+  - 잡음 제거, 저조도 개선, 화이트 밸런스, 안개 제거 등 품질 저하 영상 복원
 
 ---
 
@@ -93,18 +98,16 @@
 **원본 영상과 에지 검출을 이용한 안개 제거 영상의 품질 개선을 위한 장치 및 방법**
 - **상태**: 출원 (심사 중)
 - **출원번호**: 10-2024-0025202 (2024. 02.)
-- **내용**: 원본 영상과 에지 정보를 활용하여 안개 제거 과정 중 증폭된 잡음만을 선택적으로 필터링하는 알고리즘 제안
+- **내용**: 안개 제거 과정 중 증폭된 잡음만을 선택적으로 필터링하는 알고리즘 제안
 
 ---
 
 ## 🏆 Awards & Presentations
 
-- 학회 발표 및 수상 다수
-- 연구 내용 기반 포스터 / 구두 발표 경험
+- 우수논문상 다수 수상
+- 국제/국내 학회 포스터 및 구두 발표 경험
 
-<details>
-<summary> <b>🏅 수상 및 학회 발표 이력 (Click)</b></summary>
-
+<details><summary> <b>🏅 수상 및 학회 발표 이력 (Click)</b></summary>
 
 #### **Awards**
 - **우수논문상** | 효율적인 S&P 잡음 감지 기반 변형된 뉴턴 보간 필터 (한국정보통신학회, 2023.05.)
@@ -120,19 +123,6 @@
 
 </details>
 
----
-
-## 🧪 Practice & Implementation
-공백기 동안 Python / OpenCV / Deep Learning 기반으로
-Computer Vision 구현 역량을 확장한 실습 및 프로젝트 저장소입니다.
-
-▶️ **[Computer_Vision_Practice](https://github.com/JoungYoungSu/Computer_Vision_Practice.git)**
-- Python 기반 데이터 분석 및 딥러닝 모델 실험
-- 영상처리 응용을 위한 딥러닝 구조 구현 및 실험
-
-
-▶️ **[OpenCV_Lecture_Practice](https://github.com/JoungYoungSu/OpenCV_Lecture_Practice.git)**
-- OpenCV 기반 영상 처리 함수 및 알고리즘 직접 구현
 
 ---
 
