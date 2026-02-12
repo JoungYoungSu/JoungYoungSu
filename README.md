@@ -103,7 +103,7 @@
 - 연구 내용 기반 포스터 / 구두 발표 경험
 
 <details>
-<summary> <b>🏅 수상 및 학회 발표 이력 (클릭)</b></summary>
+<summary> <b>🏅 수상 및 학회 발표 이력 (Click)</b></summary>
 
 [국내외 학술대회]
 **Awards**
