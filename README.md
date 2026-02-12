@@ -50,11 +50,10 @@
 석사 학위 연구 보고서를 바탕으로, 복합 열화 제거 과정을 **단계별 프로젝트로 세분화하여 구조화**한 저장소입니다.
 단일 알고리즘 제안에 그치지 않고, 복합 열화(안개 + 색 왜곡 + 대비 저하 + 잡음)환경을 극복하기 위한 전체 파이프라인을 설계하고 각 단계별 알고리즘의 성능을 비교·분석한 프로젝트입니다.
 
+▶️ **[Outdoor_Image_Enhancement](https://github.com/JoungYoungSu/Outdoor_Image_Enhancement.git)**
 - 단계별 처리 알고리즘 모듈 설계
 - 알고리즘 간 정량적(PSNR/SSIM), 시각적 비교 실험
 - 실제 적용 시 한계 및 개선 방향 정리
-
-▶️ **Outdoor_Image_Enhancement[Repository Link](https://github.com/JoungYoungSu/Outdoor_Image_Enhancement.git)**
 
 ---
 
@@ -127,12 +126,12 @@
 공백기 동안 Python / OpenCV / Deep Learning 기반으로
 Computer Vision 구현 역량을 확장한 실습 및 프로젝트 저장소입니다.
 
-▶️ **Computer_Vision_Practice [Repository Link](https://github.com/JoungYoungSu/Computer_Vision_Practice.git)**
+▶️ **[Computer_Vision_Practice](https://github.com/JoungYoungSu/Computer_Vision_Practice.git)**
 - Python 기반 데이터 분석 및 딥러닝 모델 실험
 - 영상처리 응용을 위한 딥러닝 구조 구현 및 실험
 
 
-▶️ **OpenCV_Lecture_Practice [Repository Link](클릭)(https://github.com/JoungYoungSu/OpenCV_Lecture_Practice.git)**
+▶️ **[OpenCV_Lecture_Practice](https://github.com/JoungYoungSu/OpenCV_Lecture_Practice.git)**
 - OpenCV 기반 영상 처리 함수 및 알고리즘 직접 구현
 
 ---
