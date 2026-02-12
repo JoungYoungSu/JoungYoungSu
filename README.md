@@ -54,7 +54,7 @@ C++ / Python 기반 구현과 Deep Learning 실습을 통해 **Computer Vision �
 
 > **"기존 알고리즘의 한계를 분석하고, 수식적 근거를 바탕으로 개선된 영상 처리 알고리즘을 설계합니다."**
 
-- **Degree**: M.S. in Control and Instrumentation Engineering, Department of Electrical Engineering(전기공학부 제어계측 공학과)
+- **Degree**: M.S. in Control and Instrumentation Engineering, Department of Electrical Engineering(전기공학부 제어계측공학과)
 - **Specialty**: Image and Signal Processing
 - **Focus**:
   - 전통 영상처리 기반 화질 개선 알고리즘 설계
