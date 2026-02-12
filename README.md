@@ -106,12 +106,12 @@
 <summary> <b>🏅 수상 및 학회 발표 이력 (Click)</b></summary>
 
 
-**Awards**
+#### **Awards**
 - **우수논문상** | 효율적인 S&P 잡음 감지 기반 변형된 뉴턴 보간 필터 (한국정보통신학회, 2023.05)
 - **우수논문상** | 저조도의 S&P 잡음 영상을 복원하기 위한 적응형 선형 보간 평균 필터 (대한전자공학회, 2022.12)
 - **우수논문상** | ICT 센서를 기반한 스마트 안전관리 시스템 (학부 캡스톤, 2022.05)
 
-**Conference Presentations**
+#### **Conference Presentations**
 - **[Poster, International]** "Fog Image Enhancement Based on Color Difference Weights", (AETA, 2023)
 - **[Oral]** “영상의 가시성 향상을 위한 잡음 제거 및 디헤이징” (한국기계가공학회, 2023.12)
 - **[Oral]** "변형된 회색 세계 가정을 이용한 안개 영상의 가시성 개선" (한국정보통신학회, 2023.10) 
