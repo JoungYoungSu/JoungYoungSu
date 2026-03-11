@@ -13,7 +13,7 @@ C++ / Python 기반 구현과 Deep Learning 실습을 통해 **Computer Vision �
 단일 알고리즘 제안에 그치지 않고, 복합 열화(안개 + 색 왜곡 + 대비 저하 + 잡음) 환경을 극복하기 위한 전체 파이프라인을 설계하고 각 단계별 알고리즘의 성능을 비교·분석하였습니다.
 
 ▶️ **[Outdoor_Image_Enhancement](https://github.com/JoungYoungSu/Outdoor_Image_Enhancement.git)**
-- **진행 상태:** 진행 상태: ✅ Project A(WB) 완료 / 🛠️ Project B(Dehazing) 리팩토링 진행 중
+- **진행 상태:** 진행 상태: ✅ Project C(Low-light Enhancement) 완료 / 🛠️ Project D(Denoising) 리팩토링 진행 중
 - **핵심 역량:** 단계별 처리 알고리즘 모듈 설계 및 수학적 모델링
 - **성과 지표:** 기존 알고리즘 대비 정량적(PSNR/SSIM) 및 시각적 한계점 개선 검증 완료
 
